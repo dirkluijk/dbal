@@ -33,7 +33,7 @@
             "dev-master": "2.5.x-dev"
         }
     },
-    "bin": ["bin/phpcrodm", "bin/phpcrodm.php"],
+    "bin": ["bin/doctrine.php", "bin/doctrine-dbal.php"],
     "archive": {
         "exclude": ["!vendor", "tests", "*phpunit.xml", ".travis.yml", "build.xml", "build.properties", "composer.phar"]
     }
